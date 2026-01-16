@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/futurist-gallery-229882-229891/gallery_postgresql_db"
+}
